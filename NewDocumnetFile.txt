@@ -1,1 +1,4 @@
 This is a newly created file for migration testing
+Added a new line to check the commiting logic in GIT
+Added this line to commit check
+Added this line...
